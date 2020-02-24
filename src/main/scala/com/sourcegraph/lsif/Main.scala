@@ -5,8 +5,8 @@ package com.sourcegraph.lsif;
  */
 object Main {
 	/**
-	* Main function.
-	*/
+	 * Main function.
+	 */
 	def main(args: Array[String]) = {
 		println("Hello, World!")
 	}
