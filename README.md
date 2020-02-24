@@ -1,6 +1,6 @@
 # Steps to build an LSIF index
 
-### Step 1: Generate 
+### Step 1: Generate SemanticDB files
 
 Build class and SemanticDB files via [sbt](https://www.scala-sbt.org/) as follows.
 
